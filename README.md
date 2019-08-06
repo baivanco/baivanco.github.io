@@ -1,2 +1,2 @@
-# my_webpage
-my web page
+# My Web
+My web page (info/portfolio/cv)
